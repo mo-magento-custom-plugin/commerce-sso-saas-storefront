@@ -1,0 +1,19 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/AWiemJE49B2Eg6yqCu4CkY/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/AWiemJE49B2Eg6yqCu4CkY/graphql",
+      "commerce-assets-enabled": true,
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base"
+        }
+      }
+    }
+  }
+}
